@@ -1,5 +1,9 @@
 # Digital-Watermarking-Using-QR-code
-A novel approach for generating QR code from watermark image and secret message, and QR code is embedded as a text to the cover image using LSB, DCT and DWT algorithms with RSA and AES security algorithms.
+–	Developed Novel Approach for image watermarking using textual and image data embedded as a QR 
+  code 
+–	Implemented LSB, DCT, DWT algorithms for watermarking
+–	Integrated RSA and AES security techniques for secure and reliable sharing of QR code 
+
 
 # Embedding
 ![image](https://github.com/deveshparmar/Digital-Watermarking-Using-QR-code/assets/81907545/d0441469-6695-4380-9968-d07b6b1f0a23)
