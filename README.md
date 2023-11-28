@@ -1,8 +1,8 @@
 # Digital-Watermarking-Using-QR-code
-–	Developed Novel Approach for image watermarking using textual and image data embedded as a QR 
-  code 
-–	Implemented LSB, DCT, DWT algorithms for watermarking
-–	Integrated RSA and AES security techniques for secure and reliable sharing of QR code 
+<p>– Developed Novel Approach for image watermarking using textual and image data embedded as a QR 
+  code</p> 
+<p>–	Implemented LSB, DCT, DWT algorithms for watermarking</p> 
+<p>–	Integrated RSA and AES security techniques for secure and reliable sharing of QR code</p>  
 
 
 # Embedding
